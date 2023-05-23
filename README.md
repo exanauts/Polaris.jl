@@ -12,7 +12,7 @@ julia --project
 
 On a login node you may now execute the following to run the example:
 ```bash
-julia --project example.jl
+julia --project pi.jl
 ```
 
 ## Job submission
